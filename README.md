@@ -102,8 +102,6 @@ A user (Sarah Johnson) required elevated permissions to manage users but was una
 
 ## 📸 Screenshots
 
-## 📸 Screenshots
-
 ### Users Created
 ![Users](screenshots/all_users.png)
 
