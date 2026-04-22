@@ -131,7 +131,7 @@ To enhance security, a Conditional Access policy was implemented:
 
 📸 Screenshots
 - ![MFA prompt during login](screenshots/MFA Prompt.png)
-- ![Conditional Access policy configuration](conditonal-access-policy.png)
+- ![Conditional Access policy configuration](screenshots/conditonal-access-policy.png)
 
 ---
 
