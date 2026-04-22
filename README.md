@@ -4,8 +4,7 @@
 
 ## 📌 Overview
 
-This project simulates a real-world IAM onboarding scenario using Microsoft Entra ID, focusing on user provisioning, group-based access control, and RBAC troubleshooting.
-
+This project simulates a real-world IAM environment using Microsoft Entra ID, focusing on user provisioning, group-based access control, RBAC, Conditional Access (MFA), and Privileged Identity Management (PIM).
 ---
 
 ## 🧠 Objectives
