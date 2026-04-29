@@ -218,43 +218,35 @@ Access Review - Decision
 
 Expanded the IAM governance lab by onboarding ServiceNow as an Enterprise Application in Microsoft Entra ID to simulate SaaS application access provisioning and Single Sign-On (SSO) administration.
 
-Configuration
+### Configuration
 
-Application Added: ServiceNow (Enterprise Application)
+* Application Added: ServiceNow (Enterprise Application)
+* Access Model: Group-based assignments
 
-Access Model: Group-based assignments
+### Assigned Groups
 
-Assigned Groups:
+* HR-Team → User access
+* IT-Admins → User access
 
-HR-Team → User access
-
-IT-Admins → User access
-
-Single Sign-On Review
+### Single Sign-On Review
 
 Reviewed supported SSO methods:
 
-SAML
+* SAML
+* Linked Sign-on
+* Disabled
 
-Linked Sign-on
+Reviewed required federation settings:
 
-Disabled
+* Identifier (Entity ID)
+* Reply URL (Assertion Consumer Service URL)
+* Sign-on URL
+* Attributes & Claims
+* Signing Certificate
 
-Opened the SAML configuration page and reviewed required federation settings:
+### Outcome
 
-Identifier (Entity ID)
-
-Reply URL (Assertion Consumer Service URL)
-
-Sign-on URL
-
-Attributes & Claims
-
-Signing Certificate
-
-Outcome
-
-Demonstrated how organizations centrally manage SaaS application access and configure identity federation through Microsoft Entra ID.
+Demonstrated centralized SaaS access management and identity federation concepts using Microsoft Entra ID.
 
 Screenshots
 
